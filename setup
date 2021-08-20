@@ -1,0 +1,21 @@
+
+# Host do banco de dados
+HOST=
+
+# Usuario princpal do banco de dados
+USER=
+
+# Senha do usuario prinipal do banco de dados
+PASS=
+
+# Bucket API key
+B2KEY=
+
+# Bucket KeyID
+B2ID=keyID
+
+# Manter o Backup dos bancos por quantos dias
+DBBACKUPDAYS=7
+
+# Manter o Backup dos volumes por quantos dias
+VLBACKUPDAYS=7
